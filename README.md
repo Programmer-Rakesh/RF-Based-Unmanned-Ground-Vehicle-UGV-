@@ -14,7 +14,8 @@ Instead of relying on internet, GPS, or cellular networks, the UGV uses **direct
 
 ## 📸 Project Visuals (Overall)
 
-https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/1.jpeg
+https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/b6e9910bb1c518c439b95e4089535407ca070e92/Media/Photos/1.jpegt
+Media/Photos/1.jpeg
 <!-- IMAGE PLACEHOLDER -->
 <!-- VIDEO PLACEHOLDER -->
 
