@@ -15,7 +15,7 @@ Instead of relying on internet, GPS, or cellular networks, the UGV uses **direct
 ## 📸 Project Visuals (Overall)
 
 <p align="center">
-  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/1.jpeg" width="320" height="200">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/1.jpeg" width="650">
 </p>
 
 <p align="center">
@@ -108,7 +108,7 @@ Laptop → Raspberry Pi → NRF24L01 → Arduino → Motor Driver → Motors
 > RF signal considered effective at the farthest point of reception.
 
 <p align="center">
-  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/11.png" width="320" height="200">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/11.png" width="650">
 </p>
 
 ---
@@ -142,12 +142,10 @@ Laptop → Raspberry Pi → NRF24L01 → Arduino → Motor Driver → Motors
 
 <p align="center">
   <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/22.jpeg" width="320" height="200">
-  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/21.jpeg" width="320" height="200">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/21.jpeg" width="320" height="220">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/23.jpeg" width="320" height="200">
-</p>
+
 
 
 ---
