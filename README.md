@@ -14,10 +14,15 @@ Instead of relying on internet, GPS, or cellular networks, the UGV uses **direct
 
 ## 📸 Project Visuals (Overall)
 
-https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/b6e9910bb1c518c439b95e4089535407ca070e92/Media/Photos/1.jpegt
-Media/Photos/1.jpeg
-<!-- IMAGE PLACEHOLDER -->
-<!-- VIDEO PLACEHOLDER -->
+<p align="center">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/1.jpeg" width="320" height="200">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/3.jpeg" width="320" height="200">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/2.jpeg" width="320" height="200">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/3.jpeg" width="320" height="200">
+</p>
 
 ---
 
@@ -73,10 +78,6 @@ Laptop → Raspberry Pi → NRF24L01 → Arduino → Motor Driver → Motors
 - Straight motion stable
 - Turning behavior inconsistent compared to wired prototype
 
-<!-- IMAGE PLACEHOLDER -->
-<!-- IMAGE PLACEHOLDER -->
-<!-- VIDEO PLACEHOLDER -->
-
 ---
 
 ### 🔹 Phase 2 – Outdoor Testing & Turning Optimization
@@ -90,9 +91,9 @@ Laptop → Raspberry Pi → NRF24L01 → Arduino → Motor Driver → Motors
 - Reliable RF range: ~45 meters
 - Line-of-sight obstruction identified as main limitation
 
-<!-- IMAGE PLACEHOLDER -->
-<!-- IMAGE PLACEHOLDER -->
-<!-- VIDEO PLACEHOLDER -->
+https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Videos/1.MP4
+
+[▶️ Watch Test Video](https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Videos/1.MP4)
 
 ---
 
@@ -109,9 +110,9 @@ Laptop → Raspberry Pi → NRF24L01 → Arduino → Motor Driver → Motors
 
 > RF signal considered effective at the farthest point of reception.
 
-<!-- IMAGE PLACEHOLDER -->
-<!-- IMAGE PLACEHOLDER -->
-<!-- VIDEO PLACEHOLDER -->
+<p align="center">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/11.png" width="320" height="200">
+</p>
 
 ---
 
