@@ -16,12 +16,11 @@ Instead of relying on internet, GPS, or cellular networks, the UGV uses **direct
 
 <p align="center">
   <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/1.jpeg" width="320" height="200">
-  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/3.jpeg" width="320" height="200">
 </p>
 
 <p align="center">
-  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/2.jpeg" width="320" height="200">
   <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/3.jpeg" width="320" height="200">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/4.jpeg" width="320" height="200">
 </p>
 
 ---
@@ -91,8 +90,6 @@ Laptop → Raspberry Pi → NRF24L01 → Arduino → Motor Driver → Motors
 - Reliable RF range: ~45 meters
 - Line-of-sight obstruction identified as main limitation
 
-https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Videos/1.MP4
-
 [▶️ Watch Test Video](https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Videos/1.MP4)
 
 ---
@@ -131,9 +128,7 @@ https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/
 - Extremely smooth motion
 - Latency nearly negligible in real-time operation
 
-<!-- IMAGE PLACEHOLDER -->
-<!-- IMAGE PLACEHOLDER -->
-<!-- VIDEO PLACEHOLDER -->
+[▶️ Watch Test Video](https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Videos/2.MP4)
 
 ---
 
@@ -145,9 +140,15 @@ https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/
 - Structural design inspired by **Rheinmetall Mission Master CXT**
 - Parallel sensor integration using Raspberry Pi underway
 
-<!-- IMAGE PLACEHOLDER -->
-<!-- IMAGE PLACEHOLDER -->
-<!-- VIDEO PLACEHOLDER -->
+<p align="center">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/22.jpeg" width="320" height="200">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/21.jpeg" width="320" height="200">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/23.jpeg" width="320" height="200">
+</p>
+
 
 ---
 
