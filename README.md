@@ -141,7 +141,7 @@ Laptop → Raspberry Pi → NRF24L01 → Arduino → Motor Driver → Motors
 - Parallel sensor integration using Raspberry Pi underway
 
 <p align="center">
-  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/22.jpeg" width="320" height="200">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/22.jpeg" width="400" height="270">
   <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/21.jpeg" width="320" height="220">
 </p>
 
