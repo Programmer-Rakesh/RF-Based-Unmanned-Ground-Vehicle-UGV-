@@ -19,8 +19,8 @@ Instead of relying on internet, GPS, or cellular networks, the UGV uses **direct
 </p>
 
 <p align="center">
-  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/3.jpeg" width="320" height="200">
-  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/4.jpeg" width="320" height="200">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/3.jpeg" width="320" height="230">
+  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/4.jpeg" width="320" height="230">
 </p>
 
 ---
