@@ -132,24 +132,6 @@ Laptop → Raspberry Pi → NRF24L01 → Arduino → Motor Driver → Motors
 
 ---
 
-### 🔹 Phase 5 – Hardware Refinement & Structural Upgrade
-**Status:** In Progress 🔧
-
-- Switched to **FS-i6X transmitter & receiver**
-- Internal wiring cleaned and optimized
-- Structural design inspired by **Rheinmetall Mission Master CXT**
-- Parallel sensor integration using Raspberry Pi underway
-
-<p align="center">
-  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/22.jpeg" width="440" height="290">
-  <img src="https://github.com/Programmer-Rakesh/RF-Based-Unmanned-Ground-Vehicle-UGV-/blob/main/Media/Photos/21.jpeg" width="300" height="220">
-</p>
-
-
-
-
----
-
 ## 🌍 Application Domains
 - 🛟 Disaster & Flood Rescue
 - 🪖 Military & Defense Reconnaissance
